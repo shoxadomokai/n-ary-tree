@@ -1,0 +1,12 @@
+{
+  "name": "@bettercallshox/pixacap",
+  "version": "1.0.0",
+  "description": "An organogram builder",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node output/main.js"
+  },
+  "author": "Shox Adomokai",
+  "license": "ISC"
+}
